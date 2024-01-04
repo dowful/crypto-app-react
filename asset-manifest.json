@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/https//dowful.github.io/crypto-app-react/static/css/main.cc4b3944.css",
+    "main.js": "/https//dowful.github.io/crypto-app-react/static/js/main.cd13b1cc.js",
+    "index.html": "/https//dowful.github.io/crypto-app-react/index.html",
+    "main.cc4b3944.css.map": "/https//dowful.github.io/crypto-app-react/static/css/main.cc4b3944.css.map",
+    "main.cd13b1cc.js.map": "/https//dowful.github.io/crypto-app-react/static/js/main.cd13b1cc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cc4b3944.css",
+    "static/js/main.cd13b1cc.js"
+  ]
+}
